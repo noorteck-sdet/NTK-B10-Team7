@@ -9,6 +9,8 @@ public class DemoDay3 {
 	public static void main(String[] args) {
 		
 		System.out.println("Tristan");
+
+			//Trap Note: never push conflict code...
 	
 	}
 	
@@ -22,6 +24,8 @@ public class DemoDay3 {
 		
 		int result = a+b+c+d;
 		System.out.println ("Iphone: " + result);
+
+			//Trap Note: never push conflict code...
 		
 	}
 
