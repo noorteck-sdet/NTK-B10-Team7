@@ -32,6 +32,8 @@ public class DemoDay3 {
 		
 		System.out.println("Joshua L");
 		
+		System.out.println("This is Joshua"); // added 8-1-23 Joshua
+		
 	}
 
 
