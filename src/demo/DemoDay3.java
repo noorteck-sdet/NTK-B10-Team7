@@ -15,9 +15,6 @@ public class DemoDay3 {
 	System.out.println("We doing great");
 	System.out.println("Today is Tuesday");
 	
-	
-	System.out.println("fun stuff");
-	System.out.println("fun stuff 1");
 	}
 	
 	
@@ -39,6 +36,7 @@ public class DemoDay3 {
 		
 		System.out.println("good job everyone"); // added by Ajmal
 		
+		System.out.println("Biraj");
 	}
 
 
