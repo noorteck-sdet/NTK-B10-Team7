@@ -40,6 +40,11 @@ public class DemoDay3 {
 		
 		System.out.println("Java is fun"); // added by Ajmal 08/02/23
 		
+		System.out.println("Today is Tuesday");// added 8-1-23 Joshua
+		
+		System.out.println("Today is Wednesday");// added 8/2/23 Joshua
+		
+		
 	}
 
 
