@@ -37,6 +37,9 @@ public class DemoDay3 {
 		System.out.println("good job everyone"); // added by Ajmal
 		
 		System.out.println("Biraj");
+		
+		System.out.println("Java is fun"); // added by Ajmal 08/02/23
+		
 	}
 
 
