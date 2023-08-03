@@ -52,11 +52,16 @@ public class DemoDay3 {
 		
 		System.out.println("Ajmal "); // added by Ajmal 08/02/23
 		
+
+
 		System.out.println("Today is Thursday");// added by Joshua 8/3/23
+
 		System.out.println("Tomorrow is gibets birthday !!!");// added by Gibet 8/3/23
 		System.out.println("Holaa");// added by Gibet 8/3/23
 		
 
+		 
+	
 	}
 
 
