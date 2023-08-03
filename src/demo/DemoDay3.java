@@ -50,6 +50,12 @@ public class DemoDay3 {
 		
 		System.out.println("Today is Thursday");// added by Joshua 8/3/23
 		
+		System.out.println("Its almost Friday"); // added by Joshua 8/3/23
+		
+		System.out.println("Weekend is almost here");// added by Joshua 8/3/23
+		
+		System.out.println("I love Java");// added by Joshua 8/3/23
+		
 	}
 
 
