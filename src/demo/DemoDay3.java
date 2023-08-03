@@ -55,6 +55,10 @@ public class DemoDay3 {
 
 		System.out.println("Today is Thursday");// added by Joshua 8/3/23
 		
+		
+		System.out.println("Ajmal "); // added by Ajmal 08/03/23
+
+		
 
 	}
 
