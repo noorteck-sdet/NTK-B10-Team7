@@ -9,6 +9,7 @@ public class DemoDay3 {
 	public static void main(String[] args) {
 		
 		System.out.println("Tristan");
+	
 
 			//Trap Note: never push conflict code...
 	System.out.println("Reema K");
@@ -31,7 +32,7 @@ public class DemoDay3 {
 			//Trap Note: never push conflict code...
 		
 		System.out.println("Joshua L");
-		
+		System.out.println("Gibet");//8-3-23-gibet
 	}
 
 
