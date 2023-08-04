@@ -64,6 +64,9 @@ public class DemoDay3 {
 		
 		
 		System.out.println("Ajmal "); // added by Ajmal 08/03/23
+		
+		System.out.println("Ajmal222 "); // added by Ajmal 08/03/23
+
 
 		
 
