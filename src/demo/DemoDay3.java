@@ -60,20 +60,19 @@ public class DemoDay3 {
 		System.out.println("Holaa");// added by Gibet 8/3/23
 		System.out.println("Hello");// added by Gibet 8/3/23
 		
-		System.out.println(" Happy weekend !!");
-		
-		
-		System.out.println("Ajmal "); // added by Ajmal 08/03/23
-		
-		System.out.println("Ajmal222 "); // added by Ajmal 08/03/23
-		
-		System.out.println("Ajmal333 "); // added by Ajmal 08/03/23
 
 
+		System.out.println("Its almost Friday"); // added by Joshua 8/3/23
 		
+		System.out.println("Weekend is almost here");// added by Joshua 8/3/23
+		
+		System.out.println("I love Java");// added by Joshua 8/3/23
+		
+		System.out.println("Joshua student 2");// added by Joshua 8/3/23
+		
+		System.out.println("Reema student 1");// added by Reema 8/3/23
 
-		 
-	
+		
 
 	}
 
