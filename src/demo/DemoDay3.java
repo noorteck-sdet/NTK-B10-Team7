@@ -9,6 +9,7 @@ public class DemoDay3 {
 	public static void main(String[] args) {
 		
 		System.out.println("Tristan");
+	
 
 			//Trap Note: never push conflict code...
 	System.out.println("Reema K");
@@ -31,6 +32,9 @@ public class DemoDay3 {
 			//Trap Note: never push conflict code...
 		
 		System.out.println("Joshua L");
+
+	
+
 		
 		System.out.println("This is Joshua"); // added 8-1-23 Joshua
 		
@@ -46,10 +50,17 @@ public class DemoDay3 {
 		
 		
 		
-		System.out.println("Ajmal "); // added by Ajmal 08/02/23
 		
+
+
+
 		System.out.println("Today is Thursday");// added by Joshua 8/3/23
+
+		System.out.println("Tomorrow is gibets birthday !!!");// added by Gibet 8/3/23
+		System.out.println("Holaa");// added by Gibet 8/3/23
+		System.out.println("Hello");// added by Gibet 8/3/23
 		
+
 		System.out.println("Its almost Friday"); // added by Joshua 8/3/23
 		
 		System.out.println("Weekend is almost here");// added by Joshua 8/3/23
@@ -58,6 +69,7 @@ public class DemoDay3 {
 		
 		System.out.println("Joshua student 2");// added by Joshua 8/3/23
 		
+
 	}
 
 
